@@ -1,0 +1,336 @@
+   50  conda deactivate
+   51  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   52  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   53  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   54  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   55  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   56  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   57  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   58  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   59  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   60  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   61  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   62  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   63  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   64  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   65  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Listing_Assets/Unsolved/listing_assets.py
+   66  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   67  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   68  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   69  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/hello_python.py
+   70  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   71  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   72  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   73  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   74  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   75  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_The_401k_Shuffle/Unsolved/the_401k_shuffle.py
+   76  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Nested_Conditionals/Solved/nested_conditionals.py
+   77  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   78  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   79  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   80  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   81  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Conditional_Statement/Unsolved/conditional_statement.py
+   82  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+   83  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+   84  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+   85  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Nested_Conditionals/Unsolved/nested_conditionals.py
+   86  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   87  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying/Unsolved/split_second_homebuying.py
+   88  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_A_Definitive_Buy/Unsolved/a_definitive_buy.py
+   89  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+   90  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+   91  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+   92  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+   93  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+   94  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Returned_Goods/Unsolved/returned_goods.py
+   95  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   96  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   97  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   98  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+   99  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  100  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  101  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py
+  102  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/test.py
+  103  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/test.py
+  104  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/test.py
+  105  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Python_Project/test.py
+  106  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  107  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Racking_Up_The_Profit/Unsolved/racking_up_the_profit.py
+  108  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  109  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Pathways_to_Success_Part_1/Unsolved/pathways_to_success.py
+  110  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  111  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  112  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  113  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  114  /usr/bin/python3
+  115  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  116  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  117  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  118  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  119  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  120  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  121  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  122  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  123  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  124  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  125  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  126  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  127  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  128  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  129  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/Starter_Code/loan_analyzer.py
+  130  conda activate dev
+  131  pip -V
+  132  pip freeze
+  133  pip install fire
+  134  pip install questionary
+  135  conda deactivate dev
+  136  pwd
+  137  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  138  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  139  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  140  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  141  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  142  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  143  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  144  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  145  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Solved/app.py
+  146  pwd
+  147  ls
+  148  cd Desktop
+  149  pwd
+  150  pip install fire
+  151  py cli.oy
+  152  py cli.py
+  153  python cli.py
+  154  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/cli.py
+  155  python cli.py
+  156  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/cli.py
+  157  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/cli.py
+  158  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/cli.py
+  159  python cli.py
+  160  pip install fire
+  161  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/cli.py
+  162  pwd
+  163  ls
+  164  cd Desktop
+  165  ls
+  166  cd FinTech-Workspace
+  167  ls
+  168  python cli.py
+  169  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/cli.py
+  170  python cli.py
+  171  python cli.py
+  172  python cli.py
+  173  python cli.py
+  174  python cli.py --pants=True
+  175  python cli.py --pants=True
+  176  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/cli.py
+  177  python cli.py --pants=True
+  178  python cli.py --pants=True
+  179  python cli.py --pants=True
+  180  pwd
+  181  ls
+  182  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  183  ls
+  184  cd Unsolved
+  185  ls
+  186  python app.py
+  187  python app.py
+  188  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved/app.py
+  189  pwd
+  190  cd Desktop
+  191  ls
+  192  cd Fintech_Workspace
+  193  pwd
+  194  ls
+  195  cd Fintech-Workspace
+  196  ls
+  197  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  198  ls
+  199  cd Unsolved
+  200  ls
+  201  python app.py --credit_score=750
+  202  python app.py --credit_score=750
+  203  python app.py --credit_score=450
+  204  python app.py --credit_score=750 --debt=3000 --income=5000
+  205  python app.py --credit_score=750 --debt=3000 --income=50000
+  206  python app.py --credit_score=750 --debt=3000 --income=50000
+  207  ls
+  208  cd Desktop
+  209  ls
+  210  cd FinTech-Workspace
+  211  ls
+  212  cd 02_Adding_questionary_to_Loan_Qualifier
+  213  ls
+  214  cd Unsolved
+  215  ls
+  216  python app.py --credit_score=750 --debt=5000 --income=20000
+  217  python app.py
+  218  pwd
+  219  cd ..
+  220  ls
+  221  cd Solved
+  222  ls
+  223  python app.py
+  224  cd ..
+  225  ls
+  226  cd Unsolved
+  227  ls
+  228  python app.py
+  229  python app.py
+  230  python app.py
+  231  pip install questionary
+  232  git config --global user.name Sheng Gao
+  233  git config --global user.email sheng_gao@outlook.com
+  234  git config --list
+  235  pwd
+  236  ls
+  237  cd Desktop
+  238  ls
+  239  cd FinTech
+  240  ls
+  241  git clone https://github.com/ShengGaoSG/Test_Repo.git
+  242  pwd
+  243  ls
+  244  cd Test_Repo
+  245  ls
+  246  git status
+  247  git add README.md
+  248  git status
+  249  pwd
+  250  touch new_file
+  251  touch new_file.txt
+  252  ls
+  253  git status
+  254  ls
+  255  git add new_file.txt
+  256  git status
+  257  git commit -m "edited readme and added new text file"
+  258  git status
+  259  git push
+  260  pwd
+  261  git config --global user.name ShengGaoSG
+  262  git config --global user.email sheng_gao@outlook.com
+  263  git config --list
+  264  git clone https://github.com/ShengGaoSG/Test_Repo.git
+  265  pwd
+  266  ls
+  267  pwd
+  268  cd Desktop
+  269  ls
+  270  cd ..
+  271  pwd
+  272  ls
+  273  rmdir Test_Repo
+  274  ls
+  275  ls
+  276  cd Desktop
+  277  ls
+  278  cd FinTech
+  279  ls
+  280  git clone https://github.com/ShengGaoSG/Test_Repo.git
+  281  conda activate dev
+  282  conda list pandas
+  283  conda list jupyterlab
+  284  conda deactivate
+  285  conda activate dev
+  286  jupyter lab
+  287  conda deactivate
+  288  /usr/bin/python3 /Users/shenggao/Desktop/FinTech-Workspace/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  289  pwd
+  290  ls
+  291  cd Desktop
+  292  ls
+  293  cd FinTech-Workspace
+  294  cd 02_Loan_Qualifier_Filtering_Data
+  295  ls
+  296  cd Solved
+  297  ls
+  298  python app.py
+  299  python app.py
+  300  python app.py
+  301  python app.py
+  302  ls
+  303  cd Desktop
+  304  ls
+  305  cd FinTech-Workspace
+  306  ls
+  307  cd Challenge_2
+  308  ls
+  309  cd loan_qualifier_app
+  310  ls
+  311  python app.py
+  312  python app.py
+  313  python app.py
+  314  python app.py
+  315  python app.py
+  316  ./data/daily_rate_sheet.csv
+  317  python app.py
+  318  python app.py
+  319  python app.py
+  320  python app.py
+  321  python app.py
+  322  python app.py
+  323  python app.py
+  324  python app.py
+  325  cd Desktop
+  326  cd FinTech-Workspace
+  327  ls
+  328  cd Challenge_2
+  329  ls
+  330  cd loan_qualifier_app
+  331  ls
+  332  python app.py
+  333  git config --global ShengGaoSG
+  334  git config --global user.name ShengGaoSG
+  335  git config --global sheng_gao@outlook.com
+  336  git config --global user.email sheng_gao@outlook.com
+  337  git config --list
+  338  pwd
+  339  cd ..
+  340  cd ..
+  341  pwd
+  342  git clone https://github.com/ShengGaoSG/Loan_Qualifier.git
+  343  ls
+  344  cd Loan_Qualifier
+  345  ls
+  346  git status
+  347  git add README.md
+  348  git status
+  349  git status
+  350  git add .
+  351  git status
+  352  git status
+  353  ls
+  354  cd Images
+  355  ls
+  356  git add loan_qualifier.png
+  357  git status
+  358  git add .
+  359  git status
+  360  pwd
+  361  cd ..
+  362  pwd
+  363  ls
+  364  git add .
+  365  git status
+  366  python app.py
+  367  python app.py
+  368  git status
+  369  git add .
+  370  ls
+  371  cd Images
+  372  git add .
+  373  git status
+  374  cd ..
+  375  pwd
+  376  git status
+  377  git commit -m "First Commit"
+  378  git status
+  379  git push
+  380  git status
+  381  git add README.md
+  382  git status
+  383  git commit -m "edited README"
+  384  git status
+  385  git push
